@@ -106,45 +106,52 @@ export default function Footer() {
                   
                   <ul>
                     <li>
-                      <a href="#">
-                        <i className="fab fa-facebook" aria-hidden="true"></i>
-                      </a>
+                      <p>
+                        <i className="fas fa-globe"></i>
+                        <a href="https://crecepsicologos.com/">
+                          www.crecepsicologos.com
+                        </a>
+                      </p>
                     </li>
                     <li>
-                      {/* <a href="#">
-                        <i className="fab fa-twitter" aria-hidden="true"></i>
-                      </a> */}
-                    </li>
-                    <li>
-                      {/* <a href="#">
-                        <i className="fab fa-linkedin" aria-hidden="true"></i>
-                      </a> */}
-                    </li>
-                    <li>
-                      {/* <a href="#">
-                        <i
-                          className="fab fa-google-plus"
-                          aria-hidden="true"
-                        ></i>
-                      </a> */}
-                    </li>
-                    <li>
-                      {/* <a href="#">
-                        <i className="fa fa-rss" aria-hidden="true"></i>
-                      </a> */}
+                      <p>
+                        <i className="fas fa-globe"></i>{" "}
+                        <a href="https://fisiomaxrehabilitacion.com">
+                          www.fisiomaxrehabilitacion.com
+                        </a>
+                      </p>
                     </li>
                     {/* <li>
-                      <a href="#">
-                        <i
-                          className="fab fa-instagram"
-                          aria-hidden="true"
-                        ></i>
-                      </a>
+                      <p>
+                        <i className="fas fa-globe"></i>{" "}
+                        <a href="https://mexicanlaborforce.com">
+                          www.mexicanlaborforce.com
+                        </a>
+                      </p>
                     </li> */}
                     {/* <li>
-                      <a href="#">
-                        <i className="fab fa-whatsapp" aria-hidden="true"></i>
-                      </a>
+                      <p>
+                        <i className="fas fa-globe"></i>{" "}
+                        <a href="https://friopolar.com">
+                          www.friopolar.com
+                        </a>
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        <i className="fas fa-globe"></i>{" "}
+                        <a href="https://pozosriomar.com">
+                          www.pozosriomar.com
+                        </a>
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        <i className="fas fa-globe"></i>{" "}
+                        <a href="https://georiomar.com">
+                          www.georiomar.com
+                        </a>
+                      </p>
                     </li> */}
                   </ul>
                   
