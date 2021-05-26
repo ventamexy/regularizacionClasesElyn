@@ -101,8 +101,8 @@ export default function Footer() {
                 </div>
               </div>
               <div className="col-lg-4 col-md-12 col-sm-12">
-                <div className="footer-widget">
-                  <h4>Siguenos en redes sociales</h4>
+                <div className="footer-link-contact">
+                  <h4>VISITANOS EN NUESTROS SITIOS WEB</h4>
                   
                   <ul>
                     <li>
