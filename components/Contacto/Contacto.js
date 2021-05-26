@@ -8,7 +8,7 @@ const Contacto = () => {
                 {/* <!-- <div id="mapa" class="mapa"></div> --> */}
                 <p>Dirección: Nicolás Bravo 341, Centro, Cd. L. Cárdenas, Mich., MX.</p>
                 <p>Teléfonos: +52 (753) 537 3761, +52 (753) 139 7277 y +52 (753) 540 5810. </p>
-                <p>Correo: <a href="mailto:info@echeverriaasociados.com">info@echeverriaasociados.com</a></p>
+                <p>Correo: <a href="mailto:info@regularizacionclases.com">info@regularizacionclases.com</a></p>
 
                 {/* <!-- <nav class="redes-sociales">
                         <a target="_blank" href="https://www.facebook.com/AlbercasLC/"><i class="fab fa-facebook" aria-hidden="true"></i></a>
