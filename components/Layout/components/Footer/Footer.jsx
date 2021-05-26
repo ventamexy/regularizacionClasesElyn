@@ -14,59 +14,62 @@ export default function Footer() {
                 <div className="footer-widget">
                   <h4>SOBRE ELYN CONSULTORES Y ACESORES</h4>
                   <p>
-                  {/* <strong>Dirección.</strong><br /> */}
-                    Nicolas Bravo 341. centro, Cd. Lázaro Cárdenas, Mich, Mx.
+                    Nicolás  Bravo 341, Centro, Cd. L. Cárdenas, Mich, Mx.
+                    <br />
+                    Horarios de atención.
+                    <br />
+                    Lunes a viernes de 7:00am a 8:00pm.
+                    <br />
+                    Sábados de 7:00am a 2:00pm.
+                    <br />
+                    Teléfonos:<br />+52 (753) 537 3761,  <br />+52 (753) 139 7277,  <br />+52 (753) 540 5810.
                   </p>
-                  <p>
-                     <strong>Horarios de atención.</strong><br />
-                    <strong>Lunes a viernes de</strong>{" "}7:00am a 8:00pm.<br />
-                    <strong>Sábados de</strong>{" "}7:00am a 2:00pm.
-                  </p>
-                  <p>
-                  <strong>Teléfonos</strong>: (753) 537 3761, (753) 139 7277 y (753) 540 5810
-                  </p>
-                  
                   <ul>
                     <li>
-                      {/* <a href="#">
+                      <a href="#">
                         <i className="fab fa-facebook" aria-hidden="true"></i>
-                      </a> */}
+                      </a>
                     </li>
                     <li>
-                      {/* <a href="#">
+                      <a href="#">
                         <i className="fab fa-twitter" aria-hidden="true"></i>
-                      </a> */}
+                      </a>
                     </li>
                     <li>
-                      {/* <a href="#">
+                      <a href="#">
+                        <i className="fab fa-instagram" aria-hidden="true"></i>
+                      </a>
+                    </li>
+                    {/* <li>
+                      <a href="#">
                         <i className="fab fa-linkedin" aria-hidden="true"></i>
-                      </a> */}
+                      </a>
                     </li>
                     <li>
-                      {/* <a href="#">
+                      <a href="#">
                         <i
                           className="fab fa-google-plus"
                           aria-hidden="true"
                         ></i>
-                      </a> */}
+                      </a>
                     </li>
                     <li>
-                      {/* <a href="#">
+                      <a href="#">
                         <i className="fa fa-rss" aria-hidden="true"></i>
-                      </a> */}
+                      </a>
                     </li>
                     <li>
-                      {/* <a href="#">
+                      <a href="#">
                         <i
-                          className="fab fa-instagram"
+                          className="fab fa-pinterest-p"
                           aria-hidden="true"
                         ></i>
-                      </a> */}
-                    </li>
+                      </a>
+                    </li> */}
                     <li>
-                      {/* <a href="#">
+                      <a href="#">
                         <i className="fab fa-whatsapp" aria-hidden="true"></i>
-                      </a> */}
+                      </a>
                     </li>
                   </ul>
                 </div>
