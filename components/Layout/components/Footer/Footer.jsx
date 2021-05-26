@@ -133,19 +133,19 @@ export default function Footer() {
                         <i className="fa fa-rss" aria-hidden="true"></i>
                       </a> */}
                     </li>
-                    <li>
+                    {/* <li>
                       <a href="#">
                         <i
                           className="fab fa-instagram"
                           aria-hidden="true"
                         ></i>
                       </a>
-                    </li>
-                    <li>
+                    </li> */}
+                    {/* <li>
                       <a href="#">
                         <i className="fab fa-whatsapp" aria-hidden="true"></i>
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                   
                 </div>
