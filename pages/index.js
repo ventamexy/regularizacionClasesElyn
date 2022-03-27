@@ -14,10 +14,8 @@ export default function Home() {
     <>
       <HeroSlider />
       <Info />
-      {/* <ShopCategories /> */}
       <PageTitleBox />
       <Servicios />
-      {/* <FeaturedProducts /> */}
       <Mapa />
       <Contacto />
     </>
