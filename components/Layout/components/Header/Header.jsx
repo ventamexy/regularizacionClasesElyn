@@ -37,50 +37,11 @@ export default function Header() {
                 data-in="fadeInDown"
                 data-out="fadeOutUp"
               >
-                {/* <li className="nav-item">
-                  <Link href="/">
-                    <a className="nav-link">Inicio</a>
-                  </Link>
-                </li> */}
                 <li className="nav-item">
                   <Link href="/about">
                     <a className="nav-link">Nosotros</a>
                   </Link>
                 </li>
-                {/* <li className="dropdown">
-                  <a
-                    href="#"
-                    className="nav-link dropdown-toggle arrow"
-                    data-toggle="dropdown"
-                  >
-                    SHOP
-                  </a>
-                  <ul className="dropdown-menu">
-                    <li>
-                      <Link href="/cart">
-                        <a>Cart</a>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/checkout">
-                        <a>Checkout</a>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/my-account">
-                        <a>My Account</a>
-                      </Link>
-                    </li>
-                    <li>
-                      <Link href="/wishlist">
-                        <a>Wishlist</a>
-                      </Link>
-                    </li>
-                    <li>
-                      <a href="shop-detail.html">Shop Detail</a>
-                    </li>
-                  </ul>
-                </li> */}
                 <li className="nav-item">
                   <Link href="/our-services">
                     <a className="nav-link">Servicios</a>
@@ -92,20 +53,7 @@ export default function Header() {
                   </Link>
                 </li>
               </ul>
-            </div>
-
-            {/* <div className="attr-nav">
-              <ul>
-                <li className="side-menu">
-                  <Link href="/cart">
-                    <a>
-                      <i className="fa fa-shopping-bag"></i>
-                      <span className="badge">{cartItemsCount}</span>
-                    </a>
-                  </Link>
-                </li>
-              </ul>
-            </div> */}
+            </div>          
           </div>
         </nav>
       </header>

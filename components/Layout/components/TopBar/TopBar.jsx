@@ -9,67 +9,25 @@ export default function TopBar() {
             <div className="text-slid-box">
               <div id="offer-box" className="carouselTicker">
                 <p></p>
-                {/* <ul className="offer-box">
-                  <li>
-                    <i className="fab fa-opencart"></i> Off 10%! Shop Now Man
-                  </li>
-                  <li>
-                    <i className="fab fa-opencart"></i> 50% - 80% off on Fashion
-                  </li>
-                  <li>
-                    <i className="fab fa-opencart"></i> 20% off Entire Purchase
-                    Promo code: offT20
-                  </li>
-                  <li>
-                    <i className="fab fa-opencart"></i> Off 50%! Shop Now
-                  </li>
-                  <li>
-                    <i className="fab fa-opencart"></i> Off 10%! Shop Now Man
-                  </li>
-                  <li>
-                    <i className="fab fa-opencart"></i> 50% - 80% off on Fashion
-                  </li>
-                  <li>
-                    <i className="fab fa-opencart"></i> 20% off Entire Purchase
-                    Promo code: offT20
-                  </li>
-                  <li>
-                    <i className="fab fa-opencart"></i> Off 50%! Shop Now
-                  </li>
-                </ul> */}
               </div>
             </div>
           </div>
           <div className="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            {/* <div className="custom-select-box">
-              <select
-                id="basic"
-                className="selectpicker show-tick form-control"
-                data-placeholder="$ USD"
-              >
-                <option>¥ JPY</option>
-                <option>$ USD</option>
-                <option>€ EUR</option>
-              </select>
-            </div> */}
             <div className="right-phone-box">
               <p>
-                Contactanos  <a href="#"></a>
+                <a href="#">Contactanos</a>
               </p>
             </div>
             <div className="our-link">
               <ul>
                 <li>
-                  <a href="#" target="blank"><i class="fab fa-facebook" /></a>
-                  {/* <a href="#">My Account</a> */}
+                  <a href="#" target="blank"><i className="fab fa-facebook" /></a>
                 </li>
                 <li>
-                  <a href="#"><i class="fab fa-whatsapp" /></a>
-                  {/* <a href="#">Our location</a> */}
+                  <a href="#"><i className="fab fa-whatsapp" /></a>
                 </li>
                 <li>
-                  <a href="#"><i class="fab fa-instagram" /></a>
-                  {/* <a href="#">Contact Us</a> */}
+                  <a href="#"><i className="fab fa-instagram" /></a>
                 </li>
               </ul>
             </div>
