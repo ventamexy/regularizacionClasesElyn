@@ -20,80 +20,63 @@ export default function Footer() {
                     Vacantes disponibles
                   </li>
                 </ul>
-                <div className="col-12 col-md-6 col-lg-3 p-0">
+                <div className="col-12 col-md-6 col-lg-4 p-0">
                   <ul className="p-5px">
                     <li className="list-group-item">
                       <i className="fa fa-thumb-tack"></i>
-                      Ing. en computación
+                      Docentes de inglés
                     </li>
                     <li className="list-group-item">
                       <i className="fa fa-thumb-tack"></i>
-                      Project manager
+                      Matemáticas
                     </li>
                     <li className="list-group-item">
                       <i className="fa fa-thumb-tack"></i>
-                      Diseñador gráfico
+                      Química
                     </li>
                     <li className="list-group-item">
                       <i className="fa fa-thumb-tack"></i>
-                      Telemarketing y marketing digital
+                      Biología
                     </li>
                   </ul>
                 </div>
-                <div className="col-12 col-md-6 col-lg-3 p-0">
+                <div className="col-12 col-md-6 col-lg-4 p-0">
                   <ul className="p-5px">
                     <li className="list-group-item">
                       <i className="fa fa-thumb-tack"></i>
-                      Abogados
+                      Física
                     </li>
                     <li className="list-group-item active-vacante">
                       <i className="fa fa-thumb-tack"></i>
-                      Rel. públicas
+                      Álgebra
                     </li>
                     <li className="list-group-item">
                       <i className="fa fa-thumb-tack"></i>
-                      Asistente legal
+                      Trigonometría
                     </li>
-                    <li className="list-group-item text-center">
-                      -&nbsp;
+                    <li className="list-group-item">
+                      -
+                      &nbsp;
                     </li>
                   </ul>
                 </div>
-                <div className="col-12 col-md-6 col-lg-3 p-0">
+                <div className="col-12 col-md-6 col-lg-4 p-0">
                   <ul className="p-5px">
                     <li className="list-group-item">
                       <i className="fa fa-thumb-tack"></i>
-                      C.P
+                      Computación
                     </li>
                     <li className="list-group-item">
                       <i className="fa fa-thumb-tack"></i>
-                      Lic. en administración
+                      Docentes de preescolar
                     </li>
                     <li className="list-group-item">
                       <i className="fa fa-thumb-tack"></i>
-                      Lic. en derecho
-                    </li>
-                    <li className="list-group-item text-center">
-                      -&nbsp;
-                    </li>
-                  </ul>
-                </div>
-                <div className="col-12 col-md-6 col-lg-3 p-0">
-                  <ul className="p-5px">
-                    <li className="list-group-item">
-                      <i className="fa fa-thumb-tack"></i>
-                      Personal administrativo bilingüe
+                      Docentes de primaria
                     </li>
                     <li className="list-group-item">
-                      <i className="fa fa-thumb-tack"></i>
-                      Reclutadores
-                    </li>
-                    <li className="list-group-item">
-                      <i className="fa fa-thumb-tack"></i>
-                      Asesores Comerciales
-                    </li>
-                    <li className="list-group-item text-center">
-                      -&nbsp;
+                      -
+                      &nbsp;
                     </li>
                   </ul>
                 </div>
