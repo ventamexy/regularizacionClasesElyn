@@ -36,6 +36,11 @@ export default function Header() {
                 data-out="fadeOutUp"
               >
                 <li className="nav-item">
+                  <Link href="/">
+                    <a className="nav-link">Inicio</a>
+                  </Link>
+                </li>
+                <li className="nav-item">
                   <Link href="/about">
                     <a className="nav-link">Nosotros</a>
                   </Link>
