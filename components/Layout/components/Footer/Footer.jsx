@@ -105,10 +105,10 @@ export default function Footer() {
                 <div className="card-body correosCV">
                   <ul>
                     <li>
-                      <a href="tomail:info@ascarretera.com">info@ascarretera.com</a>
+                      <a href="tomail:info@regularizacionclases.com">info@regularizacionclases.com</a>
                     </li>
                     <li>
-                      <a href="tomail:info@unionmigrante.com">info@unionmigrante.com</a>
+                      <a href="tomail:citaconsulta@yahoo.com">citaconsulta@yahoo.com</a>
                     </li>
                     <li className="fst-italic">
                       <i className="fa fa-thumb-tack"></i>
