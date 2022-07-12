@@ -1,6 +1,5 @@
 import React from "react";
 import Link from "next/link";
-
 import TopBar from "../TopBar/TopBar";
 import { useSelector } from "react-redux";
 
@@ -11,7 +10,7 @@ export default function Header() {
       <TopBar />
       <header className="main-header">
         <nav className="navbar navbar-expand-lg navbar-light navbar-default bootsnav">
-          <div className="container">
+          <div className="container-fluid">
             <div className="navbar-header">
               <button
                 className="navbar-toggler"
@@ -30,10 +29,9 @@ export default function Header() {
                 width={150} height={90}/>
               </a>
             </div>
-
-            <div className="collapse navbar-collapse" id="navbar-menu">
+            <div className="collapse navbar-collapse w-100 flex-wrap" id="navbar-menu">
               <ul
-                className="nav navbar-nav ml-auto"
+                className="nav navbar-nav w-100 justify-content-center"
                 data-in="fadeInDown"
                 data-out="fadeOutUp"
               >
@@ -48,8 +46,36 @@ export default function Header() {
                   </Link>
                 </li>
                 <li className="nav-item">
+                  <Link href="/trabajosRealizados">
+                    <a className="nav-link">Trabajos realizados</a>
+                  </Link>
+                </li>
+                <li className="nav-item">
+                  <Link href="/galeria">
+                    <a className="nav-link">Galería</a>
+                  </Link>
+                </li>
+                <li className="nav-item">
                   <Link href="/contact-us">
                     <a className="nav-link">Contacto</a>
+                  </Link>
+                </li>
+              </ul>
+              <ul
+              className="nav navbar-nav w-100 justify-content-center contenedor-url-paginas-web"
+              data-in="fadeInDown"
+              data-out="fadeOutUp"
+              >
+                <li className="nav-item d-flex align-items-center">
+                  <i className="fa fa-globe"></i>
+                  <Link href="https://crecepsicologos.com">
+                    <a className="nav-link" target="_blank">Crece Psicologos</a>
+                  </Link>
+                </li>
+                <li className="nav-item d-flex align-items-center">
+                  <i className="fa fa-globe"></i>
+                  <Link href="https://empleosmexy.com">
+                    <a className="nav-link" target="_blank">Empleos Mexy</a>
                   </Link>
                 </li>
               </ul>

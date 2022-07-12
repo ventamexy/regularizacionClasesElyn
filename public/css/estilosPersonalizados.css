@@ -1,0 +1,76 @@
+body {
+    overflow-x: hidden!important;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+.font-size-12 {
+    font-size: 12px;
+}
+
+.font-size-14 {
+    font-size: 14px;
+}
+
+.font-size-16 {
+    font-size: 16px;
+}
+
+.font-size-20 {
+    font-size: 20px;
+}
+
+.font-size-21 {
+    font-size: 21px;
+}
+
+.font-size-22 {
+    font-size: 22px;
+}
+
+.font-size-25 {
+    font-size: 25px;
+}
+
+.font-size-32 {
+    font-size: 32px;
+}
+
+.font-size-5-rem {
+    font-size: 5rem;
+}
+
+/* Color de letra */
+.text-white {
+    color: #fff!important;
+}
+
+.text-black {
+    color: #000!important;
+}
+
+.texto-sin-espacio {
+    letter-spacing: -1.3px;
+}
+
+.tranform-none {
+    transform: unset!important;
+}
+ 
+.tranform-rotate-100 {
+    transform: rotate(100deg)!important;
+}
+
+.campo-obligotorio {
+    font-size: 11px;
+    color: #ff5252!important;
+    display: block;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.flex-wrap-i {
+    flex-wrap: wrap!important;
+}

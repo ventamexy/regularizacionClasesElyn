@@ -1,4 +1,5 @@
 import "../styles/globals.css";
+import '../styles/fontawesome/css/font-awesome.css';
 import Layout from "../components/Layout/Layout";
 import { Provider } from "react-redux";
 import { store } from "../store";

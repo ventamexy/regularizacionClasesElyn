@@ -8,7 +8,6 @@ import PageTitleBox from "../components/PageTitleBox/PageTitleBox";
 import Info from "../components/Info/Info";
 // import RecipeCard from "../components/RecipeCard/RecipeCard";
 
-
 export default function Home() {
   return (
     <>
@@ -16,7 +15,6 @@ export default function Home() {
       <Info />
       <PageTitleBox />
       <Servicios />
-      <Mapa />
       <Contacto />
     </>
   );
