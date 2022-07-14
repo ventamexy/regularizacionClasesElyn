@@ -91,7 +91,7 @@ export default function Footer() {
                       <a href="tomail:info@regularizacionclases.com">info@regularizacionclases.com</a>
                     </li>
                     <li>
-                      <a href="tomail:citaconsulta@yahoo.com">citaconsulta@yahoo.com</a>
+                      <a href="tomail:tutoriaslzc@yahoo.com">tutoriaslzc@yahoo.com</a>
                     </li>
                     <li className="fst-italic">
                       <i className="fa fa-thumb-tack"></i>
@@ -279,7 +279,7 @@ export default function Footer() {
                 </div>
               </div>
             </div>
-            <div className="row mx-0 w-100">
+            <div className="row mx-0 w-100 justify-content-center">
               <div className="col-12 col-md-6">
                 <h3 className="text-center text-uppercase titulo-principal b-b-titulo-principal pb-0 mb-3">
                   <span>Redes</span> sociales:
@@ -319,124 +319,6 @@ export default function Footer() {
                       aria-hidden="true"></i>
                   </a>
                 </nav>
-              </div>
-              <div className="menu col-12 col-md-6">
-                <h3 className="text-center text-uppercase titulo-principal b-b-titulo-principal pb-0 mb-3">
-                  <span>Consorcio de</span> empresas:
-                </h3>
-                <ul className="links paginasWeb mb-5">
-                  <li>
-                    Echeverria Asociados:<br />
-                    <a target="_blank" href="https://echeverriaasociados.com/">
-                      <i className="fa fa-globe"></i>
-                      www.echeverriaasociados.com
-                    </a>
-                  </li>
-                  <li>
-                    Registro de Negocios USA:<br />
-                    <a target="_blank" href="https://registrodenegociosusa.com/">
-                      <i className="fa fa-globe"></i>
-                      www.registrodenegociosusa.com
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-            <div className="row mx-0 p-5 w-100">
-              <h3 className="b-b-titulo-principal mb-4 text-uppercase titulo-principal pb-0 mb-3 text-center w-100">
-                <span>Conglomerados de</span> empresas:
-              </h3>
-              <div className="col-12 col-md-6 d-flex justify-content-center">
-                <ul className="links paginasWeb">
-                  <li>
-                    Creación de Sociedades HL:<br />
-                    <a target="_blank" href="https://creaciondesociedadeshle.com/">
-                      <i className="fa fa-globe"></i>
-                      www.creaciondesociedadeshle.com
-                    </a>
-                  </li>
-                  <li>
-                    Elyn Consultoría Internacional:<br />
-                    <a target="_blank" href="https://elynconsultoriainternacional.com/">
-                      <i className="fa fa-globe"></i>
-                      www.elynconsultoriainternacional.com
-                    </a>
-                  </li>
-                  <li>
-                    Fisiomax Rehabilitación:<br />
-                    <a target="_blank" href="https://fisiomaxrehabilitacion.com/">
-                      <i className="fa fa-globe"></i>
-                      www.fisiomaxrehabilitacion.com
-                    </a>
-                  </li>
-                  <li>
-                    Visas Mexy:<br />
-                    <a target="_blank" href="https://visasmexy.com/">
-                      <i className="fa fa-globe"></i>
-                      www.visasmexy.com
-                    </a>
-                  </li>
-                  <li>
-                    Income Taxes USAMEX:<br />
-                    <a target="_blank" href="https://incometaxesusamex.com/">
-                      <i className="fa fa-globe"></i>
-                      www.incometaxesusamex.com
-                    </a>
-                  </li>
-                  <li>
-                    AS Carretera:<br />
-                    <a target="_blank" href="https://ascarretera.com/">
-                      <i className="fa fa-globe"></i>
-                      www.ascarretera.com
-                    </a>
-                  </li>
-                </ul>
-              </div>
-              <div className="col-12 col-md-6 d-flex justify-content-center pt-0">
-                <ul className="links paginasWeb mb-5">
-                  <li>
-                    Labor Mexy:<br />
-                    <a target="_blank" href="https://labormexy.com/">
-                      <i className="fa fa-globe"></i>
-                      www.labormexy.com
-                    </a>
-                  </li>
-                  <li>
-                    Inmobiliaria RioMar:<br />
-                    <a target="_blank" href="https://inmobiliariariomar.com/">
-                      <i className="fa fa-globe"></i>
-                      www.inmobiliariariomar.com
-                    </a>
-                  </li>
-                  <li>
-                    Contabilizandote:<br />
-                    <a target="_blank" href="https://contabilizandote.com/">
-                      <i className="fa fa-globe"></i>
-                      www.contabilizandote.com
-                    </a>
-                  </li>
-                  <li>
-                    Empleos Mexy:<br />
-                    <a target="_blank" href="https://empleosmexy.com/">
-                      <i className="fa fa-globe"></i>
-                      www.empleosmexy.com
-                    </a>
-                  </li>
-                  <li>
-                    Global Mexy:<br />
-                    <a target="_blank" href="https://globalmexy.com/">
-                      <i className="fa fa-globe"></i>
-                      www.globalmexy.com
-                    </a>
-                  </li>
-                  <li>
-                    Mexican Labor Force:<br />
-                    <a target="_blank" href="https://mexicanlaborforce.com/">
-                      <i className="fa fa-globe"></i>
-                      www.mexicanlaborforce.com
-                    </a>
-                  </li>
-                </ul>
               </div>
             </div>
           </div>
