@@ -23,10 +23,7 @@ class MyDocument extends Document {
             type="image/x-icon"
           />
           <link rel="apple-touch-icon" href="/images/nosotros/title.png" />
-          <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
-          integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
-          crossorigin="" />
-          <link rel="stylesheet" href="/css/bootstrap.min.css" />
+          <link rel="stylesheet" href="/bootstrap/dist/css/bootstrap.min.css"/>
           <link rel="stylesheet" href="/css/style.css" />
           <link rel="stylesheet" href="/css/responsive.css" />
           <link rel="stylesheet" href="/css/custom.css" />
@@ -35,6 +32,8 @@ class MyDocument extends Document {
           <link rel="stylesheet" href="/css/estilosPersonalizados.css" />
           <link rel="stylesheet" href="/css/root.css" />
           <link rel="stylesheet" href="/css/estilosFooter.css" />
+          <link rel="stylesheet" href="/css/estilosFormularioContacto.css"/>
+          <link rel="stylesheet" href="/css/spinnerCarga.css"/>
           {/* Galería */}
           <link rel="stylesheet" href="css/photoswipe.css"/>
           <link rel="stylesheet" href="css/photoswipe-dynamic-caption-plugin.css"/>
@@ -43,17 +42,13 @@ class MyDocument extends Document {
         <body>
           <Main />
           <NextScript />
-          {/* <!-- Make sure you put this AFTER Leaflet's CSS --> */}
-          <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-          integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-          crossorigin=""></script>
           <script src="/js/jquery-3.2.1.min.js"></script>
-          <script src="/js/popper.min.js"></script>
-          <script src="/js/bootstrap.min.js"></script>
+          <script src="/@popperjs/core/dist/umd/popper.min.js"></script>
+          <script src="/bootstrap/dist/js/bootstrap.min.js"></script>
+          <script src="/bootbox/dist/bootbox.min.js"></script>
           <script src="/js/jquery.superslides.min.js"></script>
           <script src="/js/bootstrap-select.js"></script>
           <script src="/js/inewsticker.js"></script>
-          <script src="/js/bootsnav.js."></script>
           <script src="/js/images-loded.min.js"></script>
           <script src="/js/isotope.min.js"></script>
           <script src="/js/owl.carousel.min.js"></script>
@@ -62,16 +57,13 @@ class MyDocument extends Document {
           <script src="/js/contact-form-script.js"></script>
           <script src="/js/custom.js"></script>
           <script src="/js/mapa.js"></script>
+          <script src="/js/server/enviarEmail.js"></script>
           {/* Nuevos js */}
           <script src="/js/main.js"></script>
           {/* Gallery */}
           <script type="module" src="/js/instanciaPhotoSwipe.js"></script>
           <div id="fb-root"></div>
           <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v10.0&appId=502654373424425&autoLogAppEvents=1" nonce="IFGieTT6"></script>
-          {/* <!-- Make sure you put this AFTER Leaflet's CSS --> */}
-          <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
-            integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
-            crossorigin=""></script>
         </body>
       </Html>
     );
