@@ -59,6 +59,15 @@ export default function ContactUs() {
                                 <span className="campoObligatorio">Campo obligatorio</span>
                             </div>
                         </div>
+                        <div class="row d-flex align-items-center position-relative">
+                            <div class="g-recaptcha" data-sitekey="6Lf3SRAiAAAAAEiNGCGYSOc6ZJooMMtdHIEcqfEF"></div>
+                                <div class="col-1 position-absolute contenedor-boton">
+                                    <button class="reload-captcha" type="button">
+                                        <i class="fa fa-refresh"></i>
+                                    </button>
+                                </div>
+                            </div>
+                        <br/>
                         <div className="row justify-content-center">
                             <button 
                             className="btn btn-success btnEnviarPrecalificacion" 

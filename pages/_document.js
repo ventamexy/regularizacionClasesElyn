@@ -34,10 +34,12 @@ class MyDocument extends Document {
           <link rel="stylesheet" href="/css/estilosFooter.css" />
           <link rel="stylesheet" href="/css/estilosFormularioContacto.css"/>
           <link rel="stylesheet" href="/css/spinnerCarga.css"/>
+          <link rel="stylesheet" href="/css/estilosReCaptcha.css"></link>
           {/* Galería */}
           <link rel="stylesheet" href="css/photoswipe.css"/>
           <link rel="stylesheet" href="css/photoswipe-dynamic-caption-plugin.css"/>
           <link rel="stylesheet" href="css/otrosEstilosPhotoSwipe.css"/>
+          <script src="https://www.google.com/recaptcha/api.js"></script>
         </Head>
         <body>
           <Main />
