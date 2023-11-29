@@ -21,7 +21,7 @@ export default function About() {
       <div className="about-box-main">
         <div className="container">
           <div className="row">
-          <div className="col-lg-6">
+          <div className="col-lg-4">
               <div className="banner-frame">
                 <img
                   className="img-thumbnail img-fluid"
@@ -35,6 +35,7 @@ export default function About() {
                 <span>Nosotros</span>
               </h2>
               <p>
+                prueba
                 Ofrecemos servicio de tutorías, que cubre todos los niveles académicos, desde preescolar hasta niveles universitarios. Además, ofrece tutorías o entrenamiento para ejecutivos y personas de la tercera edad en temas específicos y personalizados.
               </p>
               <p></p>
