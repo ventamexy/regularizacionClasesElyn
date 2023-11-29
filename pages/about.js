@@ -32,10 +32,9 @@ export default function About() {
             </div>
             <div className="col-lg-6">
               <h2 className="noo-sh-title">
-                <span>Prueba</span>
+                <span>Nosotros</span>
               </h2>
               <p>
-                
                 Ofrecemos servicio de tutorías, que cubre todos los niveles académicos, desde preescolar hasta niveles universitarios. Además, ofrece tutorías o entrenamiento para ejecutivos y personas de la tercera edad en temas específicos y personalizados.
               </p>
               <p></p>
