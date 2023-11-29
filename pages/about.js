@@ -21,7 +21,7 @@ export default function About() {
       <div className="about-box-main">
         <div className="container">
           <div className="row">
-          <div className="col-lg-4">
+          <div className="col-lg-6">
               <div className="banner-frame">
                 <img
                   className="img-thumbnail img-fluid"
